@@ -1,6 +1,5 @@
 # Aprovação em Engenharia de Software
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
-
+![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)
 
 Estudaremos aqui os tópicos para um melhor entendimentos nas aulas de Engenharia de Software III.
 
@@ -20,6 +19,8 @@ Abordaremos os assuntos:
 É bom desde já escolhermos uma linguagem. Tenho uma forte opinião do uso do Java (me julguem), tendo em vista que as aulas de Engenharia de Software são em Java (e também não conheço C#).
 
 ## Orientação a Objetos
+
+![POO](https://lh3.googleusercontent.com/proxy/6RJ9km5H0NoaM5Dh9KF-01f1F7w-1gRGRyGj-M-xFbuyUqoV69mrKWwze6n7Bp4oNoswAq_7nQp5FdyoR2lRtjh2Gx5r2KRsTPHKAlZEcfxFsUs)
 
 Nesse primeiro tópico, não creio que precisemos nos aprofundar em orientação a objetos, apenas imagino que apenas entender bem coisas mais básicas (cruciais para a aula, e bem características de linguagem) seja o suficiente.
 Coisas como o uso de:
@@ -47,6 +48,8 @@ _Ainda estou lendo o livro, logo mais posto os capítulos mais interessantes._
 
 ## SOLID
 
+![SOLID](https://miro.medium.com/max/3600/1*TjDnfpnw4gI8sZ2fvaK9zg.jpeg)
+
 Aqui já é necessário um bom entendimento dos tópicos anteriores.
 SOLID nada mais é do que um acrônimo que representa os 5 princípios da programação orientada a objetos (Tio Wikipédia).
 Acredito que separarmos uma semana apenas para entender esse tópico vai nos ajudar bastante.
@@ -71,9 +74,13 @@ Um bom livro sobre SOLID é o [SOLID para Ninjas](https://drive.google.com/file/
 
 ## Design Patterns
 
+![design_patterns](https://miro.medium.com/max/720/1*nwakpRp_GabhICWPNw5VDQ.png)
+
 Aqui é onde o filho chora e a mãe não vê. Eles são bem de boas, mas sem um bom entendimento dos tópicos anteriores, vai tudo pra cucuia. Duas semanas aqui, sem nem pensar.
 
 ## UML
+
+![UML](https://i.pinimg.com/236x/20/32/03/2032034a440712c975bcf721517d79b9--class-diagram-software-development.jpg)
 
 Um que eu sempre me ferro. Nunca lembro o que cada caixinha faz, se cada caixinha é necessária, qual a direção da seta, PQP. Isso aqui é necessário demais
 
@@ -91,16 +98,17 @@ Como esse tópico não é tão extenso, vou só deixar um curso mesmo que parece
  - [UML — Diagrama de Casos de Uso](https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5) - _artigo_
 
 ## Arquitetura em camadas
-[Se der tempo]
+
+![LAYERED](https://herbertograca.files.wordpress.com/2018/11/100-explicit-architecture-svg.png?w=1024)
 
 _"Os componentes de uma arquitetura em camadas são organizados em camadas horizontais onde cada uma desempenha um papel específico na aplicação."_ (Achei por aí).
 
 Com essa citação, meus amigos, começo dizendo que é bom a gente entender esse tópico, mas da pra fazer isso durante as aulas sem problemas. Mas sério, ele até chega a perguntar sobre isso em provas.
 
 ## Arquitetura MVC
-[Se der tempo]
+
+![MVC](https://4.bp.blogspot.com/-pWUFlbiZUAI/Vx1XdepeCLI/AAAAAAAAAV4/unTNxfFZwUkiBHWFAMP29qfLzYRoKNOYwCLcB/s1600/layer.png)
 
 É a arquitetura em camadas sem tirar nem por... Mas colocando algumas coisas. Ou tirando, não sei ainda :thinking:
 Esse é o modelo arquitetural que a gente vai usar nas aulas.
 É importante notar a diferença do padrão arquitetural MVC para o padrão em camadas ~que pra mim é 0, mas pro Rodrigo tem, e quem dá a nota é ele né...~
-
