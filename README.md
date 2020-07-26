@@ -56,5 +56,6 @@ Com essa citação, meus amigos, começo dizendo que é bom a gente entender ess
 [Se der tempo]
 
 É a arquitetura em camadas sem tirar nem por... Mas colocando algumas coisas. Ou tirando, não sei ainda :thinking:
-Esse modelo arquitetural (que é o que a gente vai usar nas aulas). É importante notar a diferença do MVC para o padrão em camadas. A diferença pra mim é 0, mas pro Rodrigo tem, e quem dá a nota é ele né...
+Esse é o modelo arquitetural que a gente vai usar nas aulas.
+É importante notar a diferença do padrão arquitetural MVC para o padrão em camadas ~que pra mim é 0, mas pro Rodrigo tem, e quem dá a nota é ele né...~
 
