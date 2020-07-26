@@ -27,8 +27,15 @@ Coisas como o uso de:
  - classes concretas;
  - classes abstratas;
  - interfaces;
- - Array e
+ - List e
  - HashMap.
+ 
+Para começo, o vídeo [Abstração, Herança e Polimorfismo a base de um bom código](https://www.youtube.com/watch?v=qiGTRJlCnlA) da DevMedia é muito bom.
+
+Alguns artigos pequenos, que explicam melhor (e de forma resumida) cada conceito: 
+
+- [Conceitos Básicos de Orientação a Objetos — Parte 1](https://medium.com/gdgcampinas/conceitos-b%C3%A1sicos-de-orienta%C3%A7%C3%A3o-a-objetos-b58809b2d809)
+- [Conceitos Básicos de Orientação a Objetos — Parte 2](https://medium.com/@RafaelSermenho/conceitos-b%C3%A1sicos-de-orienta%C3%A7%C3%A3o-a-objetos-parte-2-5accfe670a6e)
 
 ## SOLID
 
