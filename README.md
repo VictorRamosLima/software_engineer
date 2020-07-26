@@ -52,6 +52,23 @@ SOLID nada mais é do que um acrônimo que representa os 5 princípios da progra
 Acredito que separarmos uma semana apenas para entender esse tópico vai nos ajudar bastante.
 Tenho diversos links de artigos, vídeos e livros.
 
+### Material
+
+Alguns artigos (tanto em português como em inglês):
+ - [SOLID com Java: Orientação a Objetos com Java](https://www.alura.com.br/conteudo/orientacao-a-objetos-avancada-e-principios-solid)
+ - [O que é SOLID: O guia completo para você entender os 5 princípios da POO](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
+ - [Princípios S.O.L.I.D: o que são e porque projetos devem utilizá-los](https://medium.com/@mari_azevedo/princ%C3%ADpios-s-o-l-i-d-o-que-s%C3%A3o-e-porque-projetos-devem-utiliz%C3%A1-los-bf496b82b299)
+ - [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+ - [SOLID Principles: Explanation and examples](https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4)
+ - [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898) - Esse é meu favorito
+ 
+Os vídeos sobre o assunto (vejam na ordem. O vídeo em inglês é opcional):
+  - [SOLID (O básico para você programar melhor) // Dicionário do Programador](https://www.youtube.com/watch?v=mkx0CdWiPRA)
+  - [SOLID - Teoria e Prática](https://www.youtube.com/watch?v=Q2QdkiX6p_Y)
+  - [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://youtu.be/rtmFCcjEgEw)
+  
+Um bom livro sobre SOLID é o [SOLID para Ninjas]() também da casa do código.
+
 ## Design Patterns
 
 Aqui é onde o filho chora e a mãe não vê. Eles são bem de boas, mas sem um bom entendimento dos tópicos anteriores, vai tudo pra cucuia. Duas semanas aqui, sem nem pensar.
