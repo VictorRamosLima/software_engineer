@@ -81,13 +81,14 @@ Um que eu sempre me ferro. Nunca lembro o que cada caixinha faz, se cada caixinh
 
 Como esse tópico não é tão extenso, vou só deixar um curso mesmo que parece bom, o resto são só artiguinhos complementares.
 
- - [Curso de UML](https://www.youtube.com/watch?v=C3xYBT3o_5k&list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ&index=1)
- - [Diagrama de Classes](https://medium.com/documenta%C3%A7ao-uml/diagrama-de-classes-ba91a9d29575)
- - [Compreendendo Diagrama de Classes da UML na prática.](https://medium.com/studio-oceano/compreendendo-diagrama-de-classes-da-uml-na-pr%C3%A1tica-1f7e6422021c)
- - [UML Class Diagrams Tutorial, Step by Step](https://medium.com/@smagid_allThings/uml-class-diagrams-tutorial-step-by-step-520fd83b300b)
- - [UML Quick Reference](https://medium.com/federicohaag/uml-unified-modeling-language-5a2a0c2fb973)
- - [UML: por que menos pode ser mais?](https://medium.com/@ullmanngabriel/uml-por-que-menos-pode-ser-mais-56d05e118711)
- - [UML — Diagrama de Casos de Uso](https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5)
+ - [Curso de UML](https://www.youtube.com/watch?v=C3xYBT3o_5k&list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ&index=1) - _vídeos_
+ - [Tutorial de Diagramas de Classes UML](https://www.youtube.com/watch?v=rDidOn6KN9k) - _vídeo_
+ - [Diagrama de Classes](https://medium.com/documenta%C3%A7ao-uml/diagrama-de-classes-ba91a9d29575) - _artigo_
+ - [Compreendendo Diagrama de Classes da UML na prática.](https://medium.com/studio-oceano/compreendendo-diagrama-de-classes-da-uml-na-pr%C3%A1tica-1f7e6422021c) - _artigo_
+ - [UML Class Diagrams Tutorial, Step by Step](https://medium.com/@smagid_allThings/uml-class-diagrams-tutorial-step-by-step-520fd83b300b) - _artigo_
+ - [UML Quick Reference](https://medium.com/federicohaag/uml-unified-modeling-language-5a2a0c2fb973) - _artigo_
+ - [UML: por que menos pode ser mais?](https://medium.com/@ullmanngabriel/uml-por-que-menos-pode-ser-mais-56d05e118711) - _artigo_
+ - [UML — Diagrama de Casos de Uso](https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5) - _artigo_
 
 ## Arquitetura em camadas
 [Se der tempo]
