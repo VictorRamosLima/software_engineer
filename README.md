@@ -29,8 +29,8 @@ Coisas como o uso de:
  - classes concretas;
  - classes abstratas;
  - interfaces;
- - List e
- - HashMap.
+ - List e ArrayList e
+ - Map e HashMap.
  
 ### Material
  
@@ -46,6 +46,13 @@ Agora, separando um pouco aqui, para quem prefere ver isso melhor em vídeo, rec
 Para quem prefere ler um livro sobre o assunto, tem o [Orientação a Objetos](https://drive.google.com/file/d/1Frj0x3YExf5zdhFaRCPyL32YLpD0qdXi/view?usp=sharing) da casa do código.
 
 _Ainda estou lendo o livro, logo mais posto os capítulos mais interessantes._
+
+Sobre as estruturas de dados (List, ArrayList, Map e HashMap) pesquisem, não vai matar, e é rapidinho... mas vou deixar uns links aqui:
+
+ - [Java Collections: Set, List e Iterator](https://www.devmedia.com.br/java-collections-set-list-e-iterator/29637)
+ - [Java 101: Array vs ArrayList](https://medium.com/@thaisdalencar/java-101-array-vs-arraylist-a04950cfc522)
+ - [Conhecendo a interface Map do Java](https://www.devmedia.com.br/conhecendo-a-interface-map-do-java/37463)
+ - [HashMap Java: Trabalhando com Listas key-value](https://www.devmedia.com.br/hashmap-java-trabalhando-com-listas-key-value/29811)
 
 ## SOLID
 
