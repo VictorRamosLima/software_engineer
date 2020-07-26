@@ -41,7 +41,7 @@ Alguns artigos pequenos, que explicam melhor (e de forma resumida) cada conceito
 
 Agora, separando um pouco aqui, para quem prefere ver isso melhor em vídeo, recomendo o [Curso completo de POO em Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) do Curso em Vídeo.
 
-Para quem prefere ler um livro sobre o assunto, tem o [Orientação a Objetos]() da casa do código.
+Para quem prefere ler um livro sobre o assunto, tem o [Orientação a Objetos](https://drive.google.com/file/d/1Frj0x3YExf5zdhFaRCPyL32YLpD0qdXi/view?usp=sharing) da casa do código.
 
 _Ainda estou lendo o livro, logo mais posto os capítulos mais interessantes._
 
@@ -67,7 +67,7 @@ Os vídeos sobre o assunto (vejam na ordem. O vídeo em inglês é opcional):
   - [SOLID - Teoria e Prática](https://www.youtube.com/watch?v=Q2QdkiX6p_Y)
   - [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://youtu.be/rtmFCcjEgEw)
   
-Um bom livro sobre SOLID é o [SOLID para Ninjas]() também da casa do código.
+Um bom livro sobre SOLID é o [SOLID para Ninjas](https://drive.google.com/file/d/1hJundIegQHJ-0SEPw9TD0Lv528kAVx_a/view?usp=sharing) também da casa do código.
 
 ## Design Patterns
 
