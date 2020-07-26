@@ -1,3 +1,4 @@
+![eng_soft](https://miro.medium.com/max/3200/1*if1uQe4ZeFF3zT0jDKLGRA.jpeg)
 # Aprovação em Engenharia de Software
 ![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)
 
