@@ -1,6 +1,6 @@
 # Aprovação em Engenharia de Software
 
-[Linguagem - Pendente]
+[Linguagem - Java]
 
 Estudaremos aqui os tópicos para um melhor entendimentos nas aulas de Engenharia de Software III.
 
@@ -36,6 +36,12 @@ Alguns artigos pequenos, que explicam melhor (e de forma resumida) cada conceito
 
 - [Conceitos Básicos de Orientação a Objetos — Parte 1](https://medium.com/gdgcampinas/conceitos-b%C3%A1sicos-de-orienta%C3%A7%C3%A3o-a-objetos-b58809b2d809)
 - [Conceitos Básicos de Orientação a Objetos — Parte 2](https://medium.com/@RafaelSermenho/conceitos-b%C3%A1sicos-de-orienta%C3%A7%C3%A3o-a-objetos-parte-2-5accfe670a6e)
+
+Agora, separando um pouco aqui, para quem prefere ver isso melhor em vídeo, recomendo o [Curso completo de POO em Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) do Curso em Vídeo.
+
+Para quem prefere ler um livro sobre o assunto, tem o [Orientação a Objetos]() da casa do código.
+
+_Ainda estou lendo o livro, logo mais posto os capítulos mais interessantes._
 
 ## SOLID
 
