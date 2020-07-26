@@ -14,6 +14,7 @@ Abordaremos os assuntos:
    - Strategy
    - Command
    - View Helper
+ - UML
  - Arquitetura em camadas
  - Arquitetura MVC
 
