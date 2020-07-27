@@ -90,7 +90,7 @@ Aqui é onde o filho chora e a mãe não vê. Eles são bem de boas, mas sem um 
 ### Materiais
 
 **Vídeos sobre o assunto:**
- - [O que são Design Patterns?](https://www.youtube.com/watch?v=8vq2QB4ogKM) - Bom ver esse vídeo da DevMidia primeiro, explica bem os básicos.
+ - [O que são Design Patterns?](https://www.youtube.com/watch?v=8vq2QB4ogKM) - Bom ver esse vídeo da DevMedia primeiro, explica bem os básicos.
  - [Design Patterns // Dicionário do Programador](https://www.youtube.com/watch?v=J-lHpiu-Twk)
  - [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Se entende inglês, essa série de vídeos é muito boa.
  
