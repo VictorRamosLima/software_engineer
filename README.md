@@ -101,7 +101,8 @@ _Não achei um curso em português_
 
 _Só achei um artigo, mas deve ter outros bons por aí, e em português... prometo achar._
 
- - [Padrões de Projeto](https://drive.google.com/file/d/1g_VZYRJSCBXVNuXZIBbr_-SBQog04N63/view?usp=sharing) - Livro utilizado nas aulas. Não é necessário a leitura completa, apenas alguns capítulos.
+**Livros:**
+ - [Padrões de Projeto - GoF](https://drive.google.com/file/d/1g_VZYRJSCBXVNuXZIBbr_-SBQog04N63/view?usp=sharing) - Livro utilizado nas aulas. Não é necessário a leitura completa, apenas alguns capítulos.
  
 **Capítulos de importante a leitura:**
  - **Capítulo 1** - _Introdução_
@@ -110,6 +111,9 @@ _Só achei um artigo, mas deve ter outros bons por aí, e em português... prome
  - **Capítulo 5, pg 292** - _Strategy_
 
 _O capítulo 2 e o capítulo 6 são de leitura opcional._
+
+ - [Design Patterns com Java](https://drive.google.com/file/d/1zhOtGMXJFATbyONXelR1PfeubwJOLm6n/view?usp=sharing) - Não tenho fortes opiniões entre qual dos dois usar (esse ou o do GoF). O do GoF é o que o professor recomenda. Mas já ouvi ótimas recomendaçes do Luque sobre esse livro. Ainda pretendo pegar para ler.
+ - [Use a Cabeça!: Padrões de Projetos](https://www.amazon.com.br/Cabe%C3%A7a-Padr%C3%B5es-Projetos-Eric-Freeman/dp/8576081741/ref=asc_df_8576081741/?tag=googleshopp00-20&linkCode=df0&hvadid=379715964603&hvpos=&hvnetw=g&hvrand=10032849538772737998&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031720&hvtargid=pla-397827439341&psc=1) - Uma galera fala bem desse livro, outra galera fala mal. Não estou aqui para criar discussões (mas concordo com quem odeia esse livro). Não tenho o link dele para download, mas uma rápida busca no google deve achar o PDF.
 
 **DAO e ViewHelper**
 
