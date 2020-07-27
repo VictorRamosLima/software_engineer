@@ -104,7 +104,7 @@ _Só achei um artigo, mas deve ter outros bons por aí, e em português... prome
  - [Padrões de Projeto](https://drive.google.com/file/d/1g_VZYRJSCBXVNuXZIBbr_-SBQog04N63/view?usp=sharing) - Livro utilizado nas aulas. Não é necessário a leitura completa, apenas alguns capítulos.
  
 **Capítulos de importante a leitura:**
- - **Capítulo 1* - _Introdução_
+ - **Capítulo 1** - _Introdução_
  - **Capítulo 4, pg 179** - _Façade_
  - **Capítulo 5, pg 222** - _Command_
  - **Capítulo 5, pg 292** - _Strategy_
