@@ -22,7 +22,7 @@ Abordaremos os assuntos:
 
 ## Orientação a Objetos
 
-![POO](https://lh3.googleusercontent.com/proxy/6RJ9km5H0NoaM5Dh9KF-01f1F7w-1gRGRyGj-M-xFbuyUqoV69mrKWwze6n7Bp4oNoswAq_7nQp5FdyoR2lRtjh2Gx5r2KRsTPHKAlZEcfxFsUs)
+![POO](https://cdn.wallpapersafari.com/43/40/7c8kqr.png)
 
 Nesse primeiro tópico, não creio que precisemos nos aprofundar em orientação a objetos, apenas imagino que apenas entender bem coisas mais básicas (cruciais para a aula, e bem características de linguagem) seja o suficiente.
 Coisas como o uso de:
@@ -66,7 +66,7 @@ Tenho diversos links de artigos, vídeos e livros.
 
 ### Material
 
-Alguns artigos (tanto em português como em inglês):
+**Alguns artigos (tanto em português como em inglês):**
  - [SOLID com Java: Orientação a Objetos com Java](https://www.alura.com.br/conteudo/orientacao-a-objetos-avancada-e-principios-solid)
  - [O que é SOLID: O guia completo para você entender os 5 princípios da POO](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
  - [Princípios S.O.L.I.D: o que são e porque projetos devem utilizá-los](https://medium.com/@mari_azevedo/princ%C3%ADpios-s-o-l-i-d-o-que-s%C3%A3o-e-porque-projetos-devem-utiliz%C3%A1-los-bf496b82b299)
@@ -74,7 +74,7 @@ Alguns artigos (tanto em português como em inglês):
  - [SOLID Principles: Explanation and examples](https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4)
  - [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898) - Esse é meu favorito
  
-Os vídeos sobre o assunto (vejam na ordem. O vídeo em inglês é opcional):
+**Os vídeos sobre o assunto (vejam na ordem. O vídeo em inglês é opcional):**
   - [SOLID (O básico para você programar melhor) // Dicionário do Programador](https://www.youtube.com/watch?v=mkx0CdWiPRA)
   - [SOLID - Teoria e Prática](https://www.youtube.com/watch?v=Q2QdkiX6p_Y)
   - [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://youtu.be/rtmFCcjEgEw)
@@ -86,6 +86,42 @@ Um bom livro sobre SOLID é o [SOLID para Ninjas](https://drive.google.com/file/
 ![design_patterns](https://miro.medium.com/max/720/1*nwakpRp_GabhICWPNw5VDQ.png)
 
 Aqui é onde o filho chora e a mãe não vê. Eles são bem de boas, mas sem um bom entendimento dos tópicos anteriores, vai tudo pra cucuia. Duas semanas aqui, sem nem pensar.
+
+### Materiais
+
+**Vídeos sobre o assunto:**
+ - [O que são Design Patterns?](https://www.youtube.com/watch?v=8vq2QB4ogKM) - Bom ver esse vídeo da DevMidia primeiro, explica bem os básicos.
+ - [Design Patterns // Dicionário do Programador](https://www.youtube.com/watch?v=J-lHpiu-Twk)
+ - [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Se entende inglês, essa série de vídeos é muito boa.
+ 
+_Não achei um curso em português_
+ 
+**Alguns artigos:**
+ - [Java — good practices and recommendations: Design patterns](https://blog.singular.uk/java-good-practices-and-recommendations-design-patterns-eade30be7965)
+
+_Só achei um artigo, mas deve ter outros bons por aí, e em português... prometo achar._
+
+ - [Padrões de Projeto](https://drive.google.com/file/d/1g_VZYRJSCBXVNuXZIBbr_-SBQog04N63/view?usp=sharing) - Livro utilizado nas aulas. Não é necessário a leitura completa, apenas alguns capítulos.
+ 
+**Capítulos de importante a leitura:**
+ - **Capítulo 1* - _Introdução_
+ - **Capítulo 4, pg 179** - _Façade_
+ - **Capítulo 5, pg 222** - _Command_
+ - **Capítulo 5, pg 292** - _Strategy_
+
+_O capítulo 2 e o capítulo 6 são de leitura opcional._
+
+**DAO e ViewHelper**
+
+Esses padres foram definidos pelo J2EE, então não aparecem no livro do GoF, mas podem ser vistos nos seguintes links:
+ - **DAO:**
+   - [Curso Java Completo - Aula 174: Padrões de projeto pt 03: Padrão DAO](https://www.youtube.com/watch?v=Ff8GVy4IfEg) - _vídeo_
+   - [Java com Banco de Dados MySQL - #03 - Criando DAO e Salvando Dados](https://www.youtube.com/watch?v=EZPYKkPkN4A) - _vídeo_
+   - [Criando classes DAO e Model para recuperar do Banco de Dados](https://www.youtube.com/watch?v=OnbvhKiIn4Y) - _vídeo_
+ - **ViewHelper:**
+   - [Padrão de Projeto View Helper em Java e seus paradoxos](https://www.devmedia.com.br/padrao-de-projeto-view-helper-em-java-e-seus-paradoxos/29052) - Único artigo bom que encontrei, o resto é bem meia boca.
+   - [View Helper Design Pattern in Java](https://www.javaguides.net/2018/08/view-helper-design-pattern-in-java.html) - _artigo_
+   - [View Helper Design Pattern – Core J2EE Patterns](https://www.dineshonjava.com/view-helper-design-pattern/) - _artigo_
 
 ## UML
 
